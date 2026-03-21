@@ -1,38 +1,46 @@
-# ⚽ Polla Mundial Plugin (WordPress)
+# ⚽ World Cup Betting Plugin (WordPress)
 
-Plugin desarrollado en PHP para WordPress que permite gestionar una polla del Mundial con sistema de puntuación, ligas y ranking en tiempo real.
+A custom WordPress plugin built in PHP that allows users to participate in a World Cup prediction game with real-time scoring, leaderboards, and private leagues.
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- Registro de equipos y partidos
-- Sistema de predicciones por usuario
-- Cálculo automático de puntos
-- Ranking global y por ligas
-- Predicciones especiales (campeón, goleador, etc.)
-- Sistema de grupos con códigos de invitación
+- Team and match management (admin panel)
+- User match predictions
+- Automatic scoring system
+- Global leaderboard
+- Private leagues with invitation codes
+- Special predictions (champion, runner-up, top scorer)
 
-## 🛠️ Tecnologías
+## 🛠️ Tech Stack
 
 - PHP (WordPress Plugin Development)
 - MySQL
 - HTML/CSS (WordPress frontend)
 - Git & GitHub
 
-## 📌 Características técnicas destacadas
+## 📌 Key Technical Highlights
 
-- Uso de `$wpdb` para consultas personalizadas
-- Sistema de scoring automatizado
-- Arquitectura basada en clases
-- Integración con shortcodes de WordPress
+- Custom database tables using `$wpdb`
+- Automated scoring engine
+- Class-based architecture
+- WordPress shortcodes integration
+- Real-time ranking updates
 
-## 🎯 Estado del proyecto
+## 🎯 Project Status
 
-En desarrollo activo – MVP funcional con usuarios reales.
+Active development – MVP already in use with real users.
 
 ## 📷 Demo
 
-(Agrega aquí luego screenshots de la web)
+### Home
+![Home](./screenshots/home.png)
 
----
+### Predictions
+![Predictions](./screenshots/predictions.png)
 
-Desarrollado por David Sánchez
+### Leaderboard
+![Leaderboard](./screenshots/ranking.png)
+
+## 👨‍💻 Author
+
+David Sánchez
