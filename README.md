@@ -1,6 +1,6 @@
-# ⚽ World Cup Betting Plugin (WordPress)
+# CRE Betting Plugin (WordPress)
 
-A custom WordPress plugin built in PHP that allows users to participate in a World Cup prediction game with real-time scoring, leaderboards, and private leagues.
+A custom WordPress plugin built in PHP that allows users to participate in a CRE prediction game with real-time scoring, leaderboards, and private leagues.
 
 ## 🚀 Features
 
@@ -30,17 +30,6 @@ A custom WordPress plugin built in PHP that allows users to participate in a Wor
 
 Active development – MVP already in use with real users.
 
-## 📷 Demo
-
-### Home
-![Home](./screenshots/home.png)
-
-### Predictions
-![Predictions](./screenshots/predictions.png)
-
-### Leaderboard
-![Leaderboard](./screenshots/ranking.png)
-
 ## 👨‍💻 Author
 
-David Sánchez
+Hahz Terry (Wizard of Hahz)
